@@ -36,5 +36,6 @@
   - https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
 - SVG의 이면
   - https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
-
+- MVC vs Flux vs Redux
+  - https://github.com/jhlee910609/pizza_school.git
 ### 
