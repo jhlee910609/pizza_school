@@ -32,6 +32,9 @@
   
 ### 2021-02-15
 
-
+- GUI가 복잡해지는 원인
+  - https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/
+- SVG의 이면
+  - https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 ### 
