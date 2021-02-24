@@ -38,4 +38,13 @@
   - https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 - MVC vs Flux vs Redux
   - https://github.com/jhlee910609/pizza_school.git
-### 
+
+
+### 2021-02-24
+
+- git bisect 문서
+  - https://git-scm.com/docs/git-bisect
+- boring technology 발표자료
+  - http://boringtechnology.club/
+- firefox cookie protection
+  - https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/
