@@ -52,3 +52,5 @@
   - https://www.youtube.com/watch?v=qm0IfG1GyZU&t=768s
 - 개발에 도움되는 무료 웹사이트(?)
   - https://free-for.dev/#/
+- javascript functional programming
+  - https://mostly-adequate.gitbook.io/mostly-adequate-guide/
