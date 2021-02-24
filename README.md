@@ -54,3 +54,5 @@
   - https://free-for.dev/#/
 - javascript functional programming
   - https://mostly-adequate.gitbook.io/mostly-adequate-guide/
+- 30 seconds code
+  - https://www.30secondsofcode.org
