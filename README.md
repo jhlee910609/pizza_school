@@ -48,5 +48,7 @@
   - http://boringtechnology.club/
 - firefox cookie protection
   - https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/
-- 10 modern layouts in 1 line of CSS
+- 10 modern layouts in 1 line of CSS
   - https://www.youtube.com/watch?v=qm0IfG1GyZU&t=768s
+- 개발에 도움되는 무료 웹사이트(?)
+  - https://free-for.dev/#/
