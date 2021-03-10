@@ -1,0 +1,33 @@
+## Week 1 Review
+
+- m
+  - 간단한 문제만 풀음, 프로젝트 코딩을 못했다. 
+
+
+## Goal
+- Common
+    - [Leetcode March daily challenge](https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/588/week-1-march-1st-march-7th/) 
+- m(in kyu)
+    - [리액트 아폴로 튜토리얼](https://www.howtographql.com/react-apollo/0-introduction/)
+- j(un hee)
+    - [리액트 (Next.js, Redux, Redux-thunk, Redux-saga 튜토리얼)]()
+        - 자료 찾는 중
+
+## Daily Log
+
+03-09
+
+- Design HashMap
+    - [x] m 그냥 set을 활용함
+
+- Remove Palindromic Subsequence
+    - [x] m a랑 b밖에 없고 subsequence인 점을 활용해 간단한 로직 작성하기
+
+03-10
+
+- Add One Row to Tree
+    - [x] m dfs/bfs등 활용 tree traversal
+
+- Integer to Roman
+    - [x] m 
+
