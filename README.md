@@ -1,4 +1,5 @@
 ### 스터디
+> ![](https://t1.daumcdn.net/cfile/tistory/122ACA434F4D219E08)
 
 - [[2021-02]]
 - [[2021-03]]
